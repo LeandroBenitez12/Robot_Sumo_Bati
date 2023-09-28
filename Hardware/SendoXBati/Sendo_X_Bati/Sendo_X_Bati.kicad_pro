@@ -247,7 +247,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Bati_V4.kicad_pro",
+    "filename": "Sendo_X_Bati.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -324,16 +324,8 @@
   },
   "sheets": [
     [
-      "2a623e64-25cb-4746-911d-a12c22552111",
+      "0acbc12b-388a-49fe-a466-d0e298324a4b",
       ""
-    ],
-    [
-      "72424391-bf9a-449b-8301-eaede87abe8b",
-      "Fuente step down"
-    ],
-    [
-      "8e91d53b-ed99-456d-a770-136bc3cf1152",
-      "Drivers"
     ]
   ],
   "text_variables": {}
