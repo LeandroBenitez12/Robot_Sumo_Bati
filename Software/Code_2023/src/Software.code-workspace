@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../RyO/Software"
+		},
+		{
+			"name": "ryo",
+			"path": "../../../../../Documents/PlatformIO/Projects/ryo"
+		}
+	],
+	"settings": {}
+}

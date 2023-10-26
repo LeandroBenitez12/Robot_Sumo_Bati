@@ -1,16 +1,15 @@
-#ifndef _BOTON_H
-#define _BOTON_H
+#ifndef _BUTTON_H
+#define _BUTTON_H
 #include "Arduino.h"
 
-class Boton{
-    private:
+class Button {
+  private:
     int pin;
-    bool flanco = LOW;
+    bool flanco = HIGH;
     bool estado_anterior = !flanco;
 
-    public:
-    Boton(int p);
-    
+  public:
+    Button(int p);
     void SetFlanco(bool f);
     bool GetIsPress();
 };

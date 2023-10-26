@@ -14,6 +14,6 @@ void Boton::SetFlanco(bool f){
 bool Boton::GetIsPress(){
     bool estado_actual = digitalRead(pin);
     bool estado = (estado_anterior != estado_actual) && estado_actual == flanco;
-    delay(20);
+    delay(100);
     return estado;
 }
